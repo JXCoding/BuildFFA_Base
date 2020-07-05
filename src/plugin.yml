@@ -1,0 +1,7 @@
+name: BuildFFA
+version: 1.0
+author: _JXc
+main: de.jxc.buildffa.BuildFFA
+commands:
+  buildffa:
+    description: Default Command for setup.

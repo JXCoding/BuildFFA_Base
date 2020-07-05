@@ -22,7 +22,7 @@ public class InventoryManager {
         Inventory inv = player.getInventory();
         inv.clear();
 
-        new ItemCreator(Material.DIAMOND_SWORD, 1).setName("§7Slicer").setSlot(inv, 0);
+        new ItemCreator(Material.DIAMOND_SWORD, 1).setName("§7Slicerino").setSlot(inv, 0);
         new ItemCreator(Material.SANDSTONE, 64).setName("§7Building Blocks").setSlot(inv, 1);
 
     }
